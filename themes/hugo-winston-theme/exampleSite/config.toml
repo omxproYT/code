@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Hugo Winston"
-themesDir = "themes"
+themesDir = "../.."
 theme = "hugo-winston-theme"
 
 pygmentsCodeFences = true
